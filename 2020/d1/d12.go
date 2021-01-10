@@ -1,4 +1,4 @@
-package main
+package d1
 
 import (
 	"bufio"
@@ -9,8 +9,8 @@ import (
 
 var nums []int
 
-func main() {
-	file, err := os.Open("d1.inp")
+func D12() {
+	file, err := os.Open("d1/d1.inp")
 	defer file.Close()
 
 	if err != nil {

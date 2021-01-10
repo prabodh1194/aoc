@@ -1,4 +1,4 @@
-package main
+package d1
 
 import (
 	"bufio"
@@ -7,8 +7,8 @@ import (
 	"strconv"
 )
 
-func main() {
-	file, err := os.Open("d1.inp")
+func D11() {
+	file, err := os.Open("d1/d1.inp")
 	defer file.Close()
 
 	if err != nil {
