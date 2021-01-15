@@ -1,2 +1,2 @@
 # aoc
-Advent of Code to teach myself some golang
+[Advent of Code](https://adventofcode.com/2020) to teach myself some golang.
