@@ -3,5 +3,5 @@ package main
 import "aoc/d6"
 
 func main() {
-	d6.D61()
+	d6.D62()
 }
