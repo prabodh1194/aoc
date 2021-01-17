@@ -1,7 +1,7 @@
 package main
 
-import "aoc/d6"
+import "aoc/d7"
 
 func main() {
-	d6.D62()
+	d7.D71()
 }
